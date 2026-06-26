@@ -8,6 +8,7 @@ langchain-groq # Note: using older version
 langgraph
 langsmith # Pin the older version
 duckduckgo-search
+ddgs>=9.0.0
 pypdf
 sentence-transformers
 # faiss-cpu
