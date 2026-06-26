@@ -1,15 +1,15 @@
 streamlit
-python-dotenv==1.0.0
-langchain==0.1.0
-langchain-core==0.1.10
-langchain-community==0.0.10
+python-dotenv 
+langchain
+langchain-core
+langchain-community
 
-langchain-groq==0.0.1  # Note: using older version
-langgraph==0.0.15
-langsmith==0.0.92  # Pin the older version
-duckduckgo-search==4.1.1
-pypdf==3.17.0
-sentence-transformers==2.2.2
+langchain-groq # Note: using older version
+langgraph
+langsmith # Pin the older version
+duckduckgo-search
+pypdf
+sentence-transformers
 # faiss-cpu
 numpy
 pandas
