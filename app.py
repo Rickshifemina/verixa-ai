@@ -446,7 +446,7 @@ col1, col2, col3, col4 = st.columns(4)
 with col1:
     st.markdown("Made with ❤️ for students")
 with col2:
-    st.markdown("StudyForge AI v2.0")
+    st.markdown("Verixa AI v2.0")
 with col3:
     st.markdown("[Report Issue](https://github.com)")
 with col4:
